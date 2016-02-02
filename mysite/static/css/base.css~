@@ -1,4 +1,4 @@
-/* a {
+a {
     color: yellow;
 }
 
@@ -6,10 +6,3 @@ html {
     background-color: black;
     color: pink;
 }
-
-.navtext {
-  color:gray;
-}
-
-*/
-
